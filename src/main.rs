@@ -9,4 +9,6 @@ fn main() {
     println!("no.7 = .get(); ::: it brings variable no. 2 into variable no.1");
     println!("no.8 = .iter(); ::: it is used with the name of the vector/varbale being combined");
     println!("no.9 = .zip(); ::: it it combines a vector/variable with variable/vector");
+    println!("no.1 = .entry(); ::: it pushes data in hasmap");
+    println!("no.1 = .or_insert(); ::: it inserts data into hashmap variable");
 }
