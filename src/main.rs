@@ -11,4 +11,12 @@ fn main() {
     println!("no.9 = .zip(); ::: it it combines a vector/variable with variable/vector");
     println!("no.10 = .entry(); ::: it pushes data in hasmap");
     println!("no.11 = .or_insert(); ::: it inserts data into hashmap variable");
+    println!("no.12 = .split_whitespace(); ::: it splits a words in a string (partition done by spaces);
+    println!("no.13 = .to_string(); ::: it converts str into strings);
+    println!("no.14 = .push_str(); ::: it pushes strings");
+    println!("no.14 = .len(); ::: it counts the leters in a string");
+    println!("no.14 = .bytes(); ::: it tells the bytes taken by each letter in a string");
+    println!("no.14 = .chars(); ::: it breaks apart every letter in a string");
+
+
 }
